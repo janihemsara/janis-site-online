@@ -1,0 +1,12 @@
+body{background-color:lightblue ;}
+h1{font-size: 40px;
+color: hotpink;
+}
+h2 { font-family: Calibri;
+font-size: 30px; color: teal;}
+p{font-size: 40px; color: red}
+
+.big{font-size: 60px;}
+.uppercase{color: red;}
+.big.uppercase{color: navy;}
+h1 span{color: pink;}
